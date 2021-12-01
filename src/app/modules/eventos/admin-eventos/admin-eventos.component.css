@@ -1,0 +1,55 @@
+h3 {
+    margin: 0 0 10px;
+  }
+  
+  pre {
+    background-color: #f5f5f5;
+    padding: 15px;
+  }
+
+  .cal-month-view .cal-header {
+    background-color:  lightgrey !important;
+  }
+
+  .colorIcons{
+    color: #0d6efd !important;
+    margin-left: 30%;
+    margin-top: 8px !important;
+  }
+
+  .colorIconsHeader{
+    color: #56baed !important;
+  }
+  .backgroundHeaderPopUp{
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #dce8f1;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    color: #56baed;
+  }
+
+.modal-dialog{
+    max-width: 80% !important;
+}
+
+.estiloCantidadEventos{
+	background-color: #b94a48;
+    color: #FFFFFF;
+    margin-left: 10px;
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 10px;
+
+}
+.estiloMeses{
+  height: 337px; 
+  border-radius:12px;
+}

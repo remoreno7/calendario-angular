@@ -1,0 +1,26 @@
+.estiloHeader{
+    border-bottom: 3px solid #dce8f1;
+    background-color: #0d6efd;
+}
+
+.textColorSecondary{
+    color: #FFFFFF !important;
+}
+
+.textColorSecondary:hover{
+    color: rgba(0,0,0,.55) !important;
+}
+
+
+.sizeTextTitle{
+    font-size: 30px;
+}
+
+.marginCalendar{
+	margin-top: 15px;
+    margin-left: 15px;
+}
+
+.marginTopConfig{
+	margin-top: 12px;
+}
